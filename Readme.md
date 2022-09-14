@@ -1,5 +1,5 @@
 # OpenFish
-### OpenFish is an open source C++ game engine, the game engine has a robust rendering system with a built in Component system.
+### OpenFish is an open source C++ game engine, the game engine has a robust rendering system with a built in Entity Component System.
 
 # Features:
 - Texture rendering.
