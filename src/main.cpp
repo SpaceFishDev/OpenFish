@@ -1,6 +1,10 @@
 #include "OpenFish.h" 
 #include<iostream>
+/*
 
+	Example of rendering an image , it looks obtuse, but it will speed up tasks when the project gets bigger.
+
+*/
 void Update(Entity* obj){
 	Component* Pos = obj->GetComponent("Position");
 	if(Pos == nullptr){
